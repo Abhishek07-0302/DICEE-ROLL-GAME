@@ -13,7 +13,7 @@
 
 body {
 
-  height:95vh;
+  height:100%;
   background: linear-gradient(to right, #4286f4, #373B44) 0 100% no-repeat;
   background-size: 100% 50%;
 }
@@ -49,7 +49,7 @@ button {
   font-size: 35px;
   border-radius: 25px;
   margin-left: 43%;
-  margin-top: 40px;
+  margin-top: 4%;
   background-color : transparent;
   padding: 10px;
   outline: none;
@@ -64,7 +64,7 @@ button:hover {
 }
 footer {
   font-size: 25px;
-  margin-top: 5%;
+  margin-top: 4%;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
