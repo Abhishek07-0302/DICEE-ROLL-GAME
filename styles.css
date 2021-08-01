@@ -20,8 +20,6 @@ body {
 
 h1 {
   margin: 30px;
-
-  /*  */
   font-family: Comic Sans MS, Comic Sans, cursive;
   text-shadow: 4px 0 #232931;
   font-size: 5rem;
@@ -35,7 +33,7 @@ p {
 }
 
 img {
-  width: 80%;
+  width: 76%;
 }
 
 button {
